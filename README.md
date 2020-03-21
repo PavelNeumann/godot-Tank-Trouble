@@ -13,7 +13,7 @@ Hra bude 2D z pohledu ze shora a kamera bude následovat hráče. Tank a dělo b
 Zvuky budou kombinací free zvuků z internetu, nahraných zvuků, které udělám pusou a nástrojů z GarageBand. Zvuky budou použity na střely a vrčení motorů.
 
 ## 4. Hudba
-Hudba bude velmi jednoduchá a zdroje budou stejně jako u zvuků. Bude to krátký písnička, který se bude přehrávat pořád dokolečka.
+Hudba bude velmi jednoduchá a zdroje budou stejně jako u zvuků. Bude to krátký písnička, který se bude přehrávat pořád dokolečka. patrickdearteaga.com
 
 ## 5. Story
 Jde o jednoho vojáka, který se chce pomstít nepřátelskému veliteli, který mu při světové válce nelítostně zabil celou jeho rodinu s dětmi. Od té doby zabíjí všechny jeho poddané a nezastaví se dokud nepomstí svoji rodinu tím, že ho zavraždí.
